@@ -1,4 +1,4 @@
-package com.samytest.samytest;
+package com.samytest;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

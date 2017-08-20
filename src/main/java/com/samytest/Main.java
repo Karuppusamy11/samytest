@@ -20,7 +20,7 @@ public class Main {
 		root.setResourceBase(webappDirLocation);
 		root.setParentLoaderPriority(true);
 		server.setHandler(root);
-		System.out.println("server started");
+		//System.out.println("server started");
 		server.start();
 		server.join();
 	}
